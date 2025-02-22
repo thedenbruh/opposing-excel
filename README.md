@@ -5,3 +5,4 @@ project of all time... on gamemaker 8.2<br>
 ## controls:
 esc - close<br>
 mouse + lmb - drag it around 
+f4 - fullscreen mode!
